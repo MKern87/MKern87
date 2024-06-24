@@ -8,8 +8,12 @@
 
 
 - 🔭 I’m currently working on an App
+  
 - 🌱 I’m currently learning ReactNative
+  
 - 👯 I’m looking to collaborate on ...
+  
 - 📫 How to reach me: ...
+  
 - ⚡ Fun fact: ...
 
